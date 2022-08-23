@@ -1,2 +1,2 @@
 # not-without-text.github.io
-my github pages
+welcome to my github pages readme but you should seriously just look at the actual page
